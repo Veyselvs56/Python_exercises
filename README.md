@@ -1,16 +1,24 @@
-# Python Exercises
+# 🐍 Python Exercises
 
-Bu repo, Python öğrenme sürecimde yazdığım ve denediğim kodları içerir. Her dosya veya klasör, belirli bir Python konusuna veya kavramına odaklanır.  
-## Amaç
+This repository contains the code I wrote and experimented with while learning **Python**. Each file or folder focuses on a specific Python concept or topic.  
 
-- Python dilini öğrenmek ve pratik yapmak  
-- Farklı konular için örnekler oluşturmak  
-- Öğrendiklerimi organize etmek ve ileride referans olarak kullanmak  
+---
 
-## Jupyter Notebook
+## 🎯 Purpose
 
-Bu repo Jupyter Notebook dosyalarını (`.ipynb`) içerir.  
-Eğer bilgisayarınızda Jupyter Notebook yüklü değilse, buradan indirebilirsiniz:  
-[Jupyter Notebook İndirme](https://jupyter.org/install)
-Bu repo’yu bilgisayarınıza klonlayarak veya Jupyter Notebook üzerinden açarak örnekleri çalıştırabilir ve kendi denemelerinizi ekleyebilirsiniz.
+- 📝 Learn and practice the Python programming language  
+- 💡 Create examples for different topics  
+- 📚 Organize what I have learned and use it as a reference in the future  
+
+---
+
+## 📒 Jupyter Notebook
+
+This repository contains Jupyter Notebook files (`.ipynb`).  
+If Jupyter Notebook is not installed on your computer, you can download it here:  
+[Jupyter Notebook Download](https://jupyter.org/install)  
+
+You can clone this repository to your computer or open the notebooks in Jupyter to run the examples and add your own experiments:
+
 ```bash
+git clone https://github.com/Veyselvs56/Python_exercises.git
